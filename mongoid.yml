@@ -1,0 +1,6 @@
+development:
+  sessions:
+    default:
+      database: apartment_development
+      hosts:
+        - localhost:27017
